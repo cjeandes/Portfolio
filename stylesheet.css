@@ -21,6 +21,7 @@ h1 {
     justify-content: center;
     color:white;
     font-size: 300%;
+    /* text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; */
 }
 
 html {
@@ -114,11 +115,13 @@ html {
   justify-content: center;
   font-size:xx-large;
   font-weight: bold; 
-  color:white
+  color:white;
+  /* text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; */
+
 }
 
 .transparent{
-  background-color: rgb(255, 255, 255, 0.3);
+  background-color: rgba(143, 142, 142, 0.46);
   border-radius: 2vh;
   margin: 10%;
   margin-top: 5vh;
@@ -126,7 +129,9 @@ html {
   padding-left: 5%;
   padding-top: 1%;
   padding-bottom: 2%;
-  color:white
+  color:white;
+  /* text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; */
+
 }
 
 .vertical-navbar {
