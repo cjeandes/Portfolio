@@ -78,14 +78,14 @@ html {
 }
 
 .left-part:hover {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.2);
   color: white;
   border-top-left-radius: 2vh;
   border-bottom-left-radius: 2vh;
 }
 
 .right-part:hover {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.2);
   color: white;
   border-top-right-radius: 2vh;
   border-bottom-right-radius: 2vh;
@@ -121,7 +121,7 @@ html {
 }
 
 .transparent{
-  background-color: rgba(143, 142, 142, 0.46);
+  background-color: rgba(255, 255, 255, 0.2);
   border-radius: 2vh;
   margin: 10%;
   margin-top: 5vh;
