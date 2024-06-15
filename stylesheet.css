@@ -34,6 +34,7 @@ html {
     font-family: Josefin Sans;
     font-size:x-large;
     line-height: 1.25;
+    scroll-behavior: smooth;
   }
   
 .image-container {
