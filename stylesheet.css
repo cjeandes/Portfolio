@@ -104,6 +104,11 @@ html {
 .profile{
   width:350px; 
   border-radius: 50%;
+  transition: all 0.5s;
+}
+
+.profile:hover{
+  filter: blur(3px);
 }
 
 .projects{
